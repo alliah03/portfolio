@@ -333,6 +333,7 @@ a {
   }
   .works .container .works-list .works-items .works-flyer {
     width: 100%;
+    height: 100%;
   }
   .section {
     padding: 60px 0;
