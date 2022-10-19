@@ -354,7 +354,7 @@ a {
     line-height: 1.2;
   }
 }
-/*@media (max-width: 990px) {
+@media (max-width: 990px) {
   .works-items,
   .works-items .works-img {
     width: 100%;
