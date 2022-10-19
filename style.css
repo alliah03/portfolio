@@ -379,7 +379,8 @@ a {
     margin-right: 0px;
   }
   .works-items .works-img {
-    width: 100%;
+    border: none;
+    width: auto;
     height: 86%;
   }
 }
