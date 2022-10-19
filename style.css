@@ -254,9 +254,6 @@ a {
   body {
     font-size: 14px;
   }
-  .container {
-    padding: 20px 20px;
-  }
   .logo_ {
     display: none;
   }
@@ -370,5 +367,11 @@ a {
   .works-items,
   .works-items .works-img {
     height: 100%;
+  }
+}
+
+@media (max-width: 1390px) and (min-width: 1024px) {
+  ..works-items {
+    width: 45%;
   }
 }
