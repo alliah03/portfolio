@@ -324,7 +324,7 @@ a {
     height: 80vh;
   }
   .top .top-container {
-    border: solid 5px #333;
+    border: none;
     border-radius: 70px;
     width: 600px;
   }
