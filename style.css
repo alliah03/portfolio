@@ -375,7 +375,11 @@ a {
     justify-content: space-evenly;
   }
   .works-items {
-    width: 0px;
+    width: 45%;
     margin-right: 0px;
+  }
+  .works-items .works-img {
+    width: 100%;
+    height: 86%;
   }
 }
