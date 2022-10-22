@@ -50,9 +50,10 @@ a {
   /*-- padding: 0 100px; --*/
 }
 .container .logo_ {
-  width: 100px;
-  height: 50px;
+  width: 200px;
   margin-left: 100px;
+  margin-top: 10px;
+  padding: 10px;
 }
 .nav-list {
   display: flex;
