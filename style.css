@@ -370,7 +370,10 @@ a {
 @media (max-width: 990px) and (min-width: 768px) {
   .works-items,
   .works-items .works-img {
-    height: 385px;
+    height: 405px;
+  }
+  .works-items {
+    margin-bottom: 70px;
   }
 }
 
