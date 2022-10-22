@@ -360,6 +360,8 @@ a {
   .works-items,
   .works-items .works-img {
     width: 100%;
+    height: 100%;
+    border: none;
   }
   .skill-body p {
     font-size: 14px;
