@@ -288,10 +288,9 @@ a {
     font-weight: lighter;
   }
 
-  /*.skill-list .skill-item {
+  .skill-list .skill-item {
     width: 100%;
   }
-  */
 }
 
 @media (max-width: 768px) {
@@ -371,21 +370,6 @@ a {
   .works-items,
   .works-items .works-img {
     height: 100%;
-  }
-  .works-items {
-    margin-right: 0px;
-  }
-}
-
-@media (min-width: 800px) {
-  .header .container a .logo_ {
-    margin-left: 0px;
-  }
-  .nav-list {
-    display: flex;
-    list-style: none;
-    margin-right: 0px;
-    flex-direction: row;
   }
 }
 
