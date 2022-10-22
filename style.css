@@ -50,10 +50,9 @@ a {
   /*-- padding: 0 100px; --*/
 }
 .container .logo_ {
-  width: 200px;
+  width: 280px;
   margin-left: 100px;
   margin-top: 10px;
-  padding: 10px;
 }
 .nav-list {
   display: flex;
@@ -100,15 +99,21 @@ a {
   text-align: center;
 }
 .top-container {
-  padding: 138px 0;
-  border: solid 5px #333;
-  border-radius: 70px;
-  width: 600px;
-  height: 400px;
+  font-family: cursive;
+  animation: fadein 5s ease-out forwards;
+}
+@keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 .top-container .top-title {
   color: #000;
   font-size: 60px;
+  letter-spacing: 10px;
 }
 
 /*-- section --*/
