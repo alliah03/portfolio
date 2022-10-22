@@ -360,7 +360,7 @@ a {
   .works-items,
   .works-items .works-img {
     width: 100%;
-    height: 100%;
+    height: 80%;
     border: none;
   }
   .skill-body p {
@@ -370,7 +370,7 @@ a {
 @media (max-width: 990px) and (min-width: 768px) {
   .works-items,
   .works-items .works-img {
-    height: 100%;
+    height: 385px;
   }
 }
 
