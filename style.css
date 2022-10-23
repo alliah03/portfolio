@@ -231,6 +231,7 @@ a {
   border-radius: 30px;
 }
 .profile .profile-body p {
+  letter-spacing: 2px;
   font-size: 16px;
   line-height: 1.8;
   font-weight: bold;
