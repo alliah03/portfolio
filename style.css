@@ -299,9 +299,7 @@ a {
   body {
     font-size: 14px;
   }
-  .logo_ {
-    display: none;
-  }
+
   .nav-list {
     display: flex;
     list-style: none;
@@ -346,6 +344,7 @@ a {
 
   .header .container a .logo_ {
     margin-left: 0px;
+    width: 180px;
   }
   .nav-list {
     display: flex;
