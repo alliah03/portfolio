@@ -160,7 +160,6 @@ a {
   margin-right: 0;
 }
 .works-items .works-img {
-  border: 1px solid #ccc;
   width: 400px;
   height: 300px;
 }
@@ -360,7 +359,6 @@ a {
   .works-items,
   .works-items .works-img {
     width: 100%;
-    border: none;
   }
 
   .top {
