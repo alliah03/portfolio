@@ -17,7 +17,6 @@ img {
   height: 100%;
   vertical-align: bottom;
   border-style: none;
-  border-radius: 20px;
 }
 a {
   transition: opacity 0.3s;
