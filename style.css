@@ -360,6 +360,7 @@ a {
   .works-items,
   .works-items .works-img {
     width: 100%;
+    border: none;
   }
 
   .top {
