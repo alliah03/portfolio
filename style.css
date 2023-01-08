@@ -92,13 +92,12 @@ a {
 }
 
 /*-- banner --*/
+
 .banner-image {
   text-align: center;
   margin-bottom: 30px;
 }
-.banner-image .banner-list {
-  border-radius: 0px;
-}
+
 /*-- main --*/
 .top {
   display: flex;
