@@ -17,7 +17,7 @@ img {
   height: 100%;
   vertical-align: bottom;
   border-style: none;
-  border-radius: 30px;
+  border-radius: 10px;
 }
 a {
   transition: opacity 0.3s;
@@ -91,6 +91,14 @@ a {
   transform: scale(1, 1);
 }
 
+/*-- banner --*/
+#banner-image {
+  text-align: center;
+  margin-bottom: 30px;
+}
+#banner-image .banner-list {
+  border-radius: 0px;
+}
 /*-- main --*/
 .top {
   display: flex;
